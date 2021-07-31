@@ -1,1 +1,1 @@
-# vssgithub.io
+# vss.github.io
